@@ -10,6 +10,6 @@
 - [The Trouble with Universal IDs: Part 1](https://blog.mumojack.dev/the-trouble-with-universal-ids-part-1)
 <!-- BLOG-POSTS:END -->
 
-## My tools
+## Toolbox
 
 ![Python, Java, TypeScript, Bash, Django, FastAPI, Spring, React, Angular, PostgreSQL, Redis, Cassandra, Kafka, AWS, Azure, GCP, Docker, Kubernetes, GitHub Actions, Jenkins, Ansible, Prometheus, Grafana, Claude Code, Oracle](./assets/tools.svg)
