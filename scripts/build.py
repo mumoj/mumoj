@@ -174,7 +174,7 @@ def header() -> str:
 <line x1="0" y1="38" x2="{W}" y2="38" stroke="#ffffff" stroke-opacity=".08"/>
 <circle cx="22" cy="19" r="6" fill="#ff5f57"/><circle cx="42" cy="19" r="6" fill="#febc2e"/><circle cx="62" cy="19" r="6" fill="#28c840"/>
 {term}
-<text x="{LEFT}" y="296" class="sans" font-size="12.5" font-style="italic" fill="#a1a1aa">UTC+3</text>
+<text x="{W - LEFT}" y="296" text-anchor="end" class="sans" font-size="12.5" font-style="italic" fill="#a1a1aa">UTC+3</text>
 <rect x=".5" y=".5" width="{W - 1}" height="{H - 1}" rx="16" fill="none" stroke="url(#border)"/>
 </svg>
 """
